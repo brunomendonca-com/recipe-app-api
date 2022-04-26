@@ -1,4 +1,4 @@
-FROM python:3.10.4-alpine
+FROM python:3.7-alpine
 LABEL org.opencontainers.image.authors="brunomendonca-com"
 LABEL version="1.0"
 
